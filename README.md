@@ -4,7 +4,7 @@ Esse projeto tem como objetivo demonstrar uma implementação básica de uma pá
 # Linguagem
 React Native
 
-![image]()
+![image](https://github.com/AleFedrizzi/Hotel-especifica-o/blob/main/assets/hotel.jpeg)
 
 # Getting Started with Create React App
 
