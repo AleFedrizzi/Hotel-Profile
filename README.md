@@ -5,6 +5,8 @@ Esse projeto tem como objetivo demonstrar uma implementação básica de uma pá
 React Native
 
 ![image](https://github.com/AleFedrizzi/Hotel-especifica-o/blob/main/assets/hotel.jpeg)
+![image](https://github.com/AleFedrizzi/Hotel-Profile/blob/main/assets/profile.jpeg)
+
 
 # Getting Started with Create React App
 
