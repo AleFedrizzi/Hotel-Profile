@@ -4,6 +4,8 @@ Esse projeto tem como objetivo demonstrar uma implementação básica de uma pá
 # Linguagem
 React Native
 
+![image]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
